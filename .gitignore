@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except the test file and this gitignore
+!ipsc_exam.html
+!.gitignore
